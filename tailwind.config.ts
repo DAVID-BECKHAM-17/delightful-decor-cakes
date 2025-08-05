@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Cake-specific colors
+				'cake-pink': 'hsl(var(--cake-pink))',
+				'cake-cream': 'hsl(var(--cake-cream))',
+				'cake-golden': 'hsl(var(--cake-golden))',
+				'cake-brown': 'hsl(var(--cake-brown))',
+				'cake-rose': 'hsl(var(--cake-rose))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
