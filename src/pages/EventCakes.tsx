@@ -13,7 +13,7 @@ const EventCakes = () => {
       description: "Elegant multi-tier cakes that make your special day unforgettable",
       features: ["Custom designs", "Multiple flavors", "Fresh flowers", "Personalized toppers"],
       image: weddingCake,
-      price: "Starting from $150",
+      price: "Starting from  ₹450",
       icon: <Heart className="h-6 w-6" />
     },
     {
@@ -21,7 +21,7 @@ const EventCakes = () => {
       description: "Fun and colorful cakes perfect for birthdays of all ages",
       features: ["Themed decorations", "Custom messages", "Photo printing", "Number candles"],
       image: birthdayCake,
-      price: "Starting from $45",
+      price: "Starting from  ₹350",
       icon: <Gift className="h-6 w-6" />
     },
     {
@@ -29,7 +29,7 @@ const EventCakes = () => {
       description: "Romantic and sophisticated cakes to celebrate your love story",
       features: ["Elegant designs", "Gold accents", "Fresh berries", "Custom inscriptions"],
       image: weddingCake,
-      price: "Starting from $80",
+      price: "Starting from  ₹480",
       icon: <Sparkles className="h-6 w-6" />
     },
     {
@@ -37,7 +37,7 @@ const EventCakes = () => {
       description: "Professional cakes for business celebrations and milestones",
       features: ["Logo printing", "Brand colors", "Large portions", "Professional delivery"],
       image: cupcakes,
-      price: "Starting from $120",
+      price: "Starting from  ₹800",
       icon: <Calendar className="h-6 w-6" />
     },
     {
@@ -45,7 +45,7 @@ const EventCakes = () => {
       description: "Sweet and adorable cakes to welcome the newest family member",
       features: ["Pastel colors", "Baby themes", "Gender reveals", "Cute decorations"],
       image: cupcakes,
-      price: "Starting from $65",
+      price: "Starting from  ₹650",
       icon: <Heart className="h-6 w-6" />
     },
     {
@@ -53,7 +53,7 @@ const EventCakes = () => {
       description: "Celebrate achievements with cakes that honor success",
       features: ["School colors", "Diploma designs", "Cap decorations", "Achievement themes"],
       image: birthdayCake,
-      price: "Starting from $70",
+      price: "Starting from  ₹780",
       icon: <Sparkles className="h-6 w-6" />
     }
   ];
